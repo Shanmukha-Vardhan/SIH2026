@@ -1,0 +1,501 @@
+internship_id,company_name,sector,location,state,required_skills,qualification_required,capacity,stipend,duration_months
+I0001,LIC,Finance,Indore,Madhya Pradesh,"data-analysis,agriculture",BA,22,5000,10
+I0002,Petronet LNG,Energy,Ahmedabad,Gujarat,"supply-chain,leadership,sql",MCA,17,5000,11
+I0003,DRDO Labs,Manufacturing,Kolkata,West Bengal,"electrical,supply-chain,civil,critical-thinking,excel",B.Tech,18,5000,12
+I0004,Extramarks,Education,Noida,Uttar Pradesh,"leadership,python",BSc,11,5000,11
+I0005,Happiest Minds,IT,Coimbatore,Tamil Nadu,"project-management,civil",B.Tech,6,5000,10
+I0006,TVS Motor,Manufacturing,Delhi,Delhi,"leadership,communication,electrical,digital-marketing,project-management",B.Tech,14,5000,12
+I0007,Mphasis,IT,Guwahati,Assam,"communication,teamwork",BBA,13,5000,10
+I0008,Freshworks,IT,Kolkata,West Bengal,"data-analysis,communication,java,project-management,leadership",B.Com,13,5000,10
+I0009,Oil India,Energy,Gurgaon,Haryana,"mechanical,data-analysis,project-management,c++",Any,11,5000,10
+I0010,Johnson & Johnson India,Healthcare,Coimbatore,Tamil Nadu,"healthcare,research,data-analysis,javascript,marketing",BBA,12,5000,10
+I0011,CESC,Energy,Kolkata,West Bengal,"data-analysis,electrical",B.Tech,9,5000,12
+I0012,Freshworks,IT,Kanpur,Uttar Pradesh,"data-analysis,leadership",Any,7,5000,10
+I0013,CESC,Energy,Mumbai,Maharashtra,"project-management,cad",MBA,9,5000,10
+I0014,Philips Healthcare India,Healthcare,Bhubaneswar,Odisha,"communication,machine-learning",B.Tech,9,5000,12
+I0015,Rallis,Agriculture,Indore,Madhya Pradesh,"project-management,data-analysis,digital-marketing,finance",MBA,11,5000,12
+I0016,Hexaware,IT,Pune,Maharashtra,"teamwork,project-management,civil,data-analysis",BBA,5,5000,10
+I0017,Max Healthcare,Healthcare,Faridabad,Haryana,"excel,agriculture",BSc,9,5000,12
+I0018,Policybazaar,Finance,Raipur,Chhattisgarh,"data-analysis,critical-thinking,problem-solving,communication,finance",B.Tech,5,5000,12
+I0019,HCLTech,IT,Delhi,Delhi,"python,teaching",BSc,5,5000,12
+I0020,Tata Capital,Finance,Noida,Uttar Pradesh,"finance,civil",B.Tech,23,5000,12
+I0021,Amul,Agriculture,Chennai,Tamil Nadu,"data-analysis,agriculture",B.Tech,7,5000,12
+I0022,Rallis,Agriculture,Gurgaon,Haryana,"agriculture,teamwork",B.Com,6,5000,12
+I0023,Muthoot Finance,Finance,Kolkata,West Bengal,"leadership,mechanical",B.Tech,8,5000,12
+I0024,Cyient,IT,Delhi,Delhi,"java,project-management,mechanical,digital-marketing",Any,18,5000,10
+I0025,Aptech,Education,Mumbai,Maharashtra,"project-management,communication,graphic-design,finance",B.Com,6,5000,11
+I0026,Accenture India,IT,Kochi,Kerala,"problem-solving,teamwork,electrical,graphic-design",B.Tech,23,5000,12
+I0027,Reliance Industries,Manufacturing,Delhi,Delhi,"supply-chain,research",B.Tech,9,5000,10
+I0028,HCLTech,IT,Pune,Maharashtra,"critical-thinking,mechanical",MBA,15,5000,11
+I0029,Larsen & Toubro Infotech,IT,Coimbatore,Tamil Nadu,"sql,java,problem-solving,civil",Any,14,5000,11
+I0030,Mahindra Agri,Agriculture,Ahmedabad,Gujarat,"problem-solving,communication,leadership,civil",MBA,25,5000,12
+I0031,Hexaware,IT,Gurgaon,Haryana,"critical-thinking,communication,problem-solving,supply-chain,healthcare",B.Tech,15,5000,11
+I0032,Bharat Petroleum,Energy,Coimbatore,Tamil Nadu,"communication,javascript",B.Tech,25,5000,12
+I0033,KPIT Technologies,IT,Jammu,Jammu and Kashmir,"critical-thinking,communication,data-analysis,teaching",MCA,9,5000,12
+I0034,Infosys,IT,Hyderabad,Telangana,"data-analysis,problem-solving",Any,22,5000,12
+I0035,Petronet LNG,Energy,Lucknow,Uttar Pradesh,"project-management,problem-solving,electrical,healthcare,content-writing",BA,6,5000,11
+I0036,Zoho,IT,Noida,Uttar Pradesh,"project-management,critical-thinking,communication,healthcare,problem-solving",BBA,16,5000,12
+I0037,Tata Power,Energy,Hyderabad,Telangana,"problem-solving,project-management,teaching",Any,7,5000,11
+I0038,Siemens India,Manufacturing,Noida,Uttar Pradesh,"electrical,problem-solving,finance",B.Tech,20,5000,10
+I0039,Advanta Seeds,Agriculture,Gangtok,Sikkim,"supply-chain,agriculture,research,finance,leadership",Any,23,5000,12
+I0040,Godrej Agrovet,Agriculture,Guwahati,Assam,"data-analysis,python",B.Com,21,5000,11
+I0041,Aakash Institute,Education,Kolkata,West Bengal,"research,teaching,finance",BBA,15,5000,12
+I0042,Nuziveedu Seeds,Agriculture,Bangalore,Karnataka,"problem-solving,leadership",MBA,16,5000,10
+I0043,NHPC,Energy,Mumbai,Maharashtra,"civil,mechanical,data-analysis,electrical",B.Tech,16,5000,10
+I0044,Crompton Greaves,Manufacturing,Noida,Uttar Pradesh,"project-management,civil,sql",MCA,19,5000,12
+I0045,ABB India,Manufacturing,Puducherry,Puducherry,"supply-chain,communication,teamwork,teaching,finance",BBA,14,5000,12
+I0046,GE Healthcare India,Healthcare,Bangalore,Karnataka,"excel,problem-solving",BA,25,5000,12
+I0047,L&T Technology Services,IT,Indore,Madhya Pradesh,"c++,javascript,teamwork,research,critical-thinking",B.Com,14,5000,11
+I0048,Tech Mahindra,IT,Delhi,Delhi,"java,machine-learning,mechanical,leadership",BSc,16,5000,11
+I0049,Zerodha,Finance,Jodhpur,Rajasthan,"communication,critical-thinking,electrical,c++",Any,14,5000,11
+I0050,JSW Steel,Manufacturing,Shimla,Himachal Pradesh,"electrical,problem-solving,hr-management,machine-learning",Any,17,5000,10
+I0051,Muthoot Finance,Finance,Guwahati,Assam,"finance,leadership,accounting,project-management,data-analysis",B.Tech,9,5000,11
+I0052,Crompton Greaves,Manufacturing,Gurgaon,Haryana,"leadership,teamwork,python,machine-learning",MBA,6,5000,10
+I0053,BSES,Energy,Pune,Maharashtra,"project-management,civil,leadership,javascript,mechanical",Any,20,5000,10
+I0054,Tech Mahindra,IT,Chennai,Tamil Nadu,"data-analysis,sql,communication,digital-marketing,c++",BA,13,5000,10
+I0055,NIIT Technologies,IT,Pune,Maharashtra,"java,critical-thinking,finance,problem-solving",MBA,24,5000,11
+I0056,Hero MotoCorp,Manufacturing,Jodhpur,Rajasthan,"cad,supply-chain",B.Tech,5,5000,12
+I0057,Infosys,IT,Ahmedabad,Gujarat,"machine-learning,communication,accounting",B.Tech,6,5000,12
+I0058,Paytm,Finance,Gurgaon,Haryana,"communication,problem-solving,teaching",BBA,23,5000,12
+I0059,Hexaware,IT,Mumbai,Maharashtra,"communication,digital-marketing",B.Tech,11,5000,12
+I0060,Manappuram Finance,Finance,Mumbai,Maharashtra,"data-analysis,critical-thinking",B.Tech,22,5000,12
+I0061,Paytm,Finance,Shillong,Meghalaya,"finance,problem-solving,research",B.Tech,15,5000,10
+I0062,NIIT Technologies,IT,Hyderabad,Telangana,"critical-thinking,healthcare",Any,22,5000,11
+I0063,Edureka,Education,Jaipur,Rajasthan,"teaching,project-management,cad",MCA,12,5000,11
+I0064,Edureka,Education,Bengaluru,Karnataka,"research,critical-thinking,leadership,hr-management,teamwork",B.Tech,20,5000,10
+I0065,Vedantu,Education,Allahabad,Uttar Pradesh,"leadership,research,teamwork,civil,critical-thinking",B.Com,8,5000,11
+I0066,Jain Irrigation,Agriculture,Pune,Maharashtra,"agriculture,data-analysis,leadership",B.Tech,17,5000,11
+I0067,Tata Power Solar,Energy,Patna,Bihar,"data-analysis,mechanical,communication,agriculture,leadership",MBA,17,5000,11
+I0068,Godrej & Boyce,Manufacturing,Thiruvananthapuram,Kerala,"teamwork,problem-solving,graphic-design,cad",B.Tech,11,5000,12
+I0069,Freshworks,IT,Delhi,Delhi,"machine-learning,java,javascript,graphic-design,electrical",B.Tech,21,5000,12
+I0070,PhonePe,Finance,Kochi,Kerala,"communication,cad",B.Com,11,5000,11
+I0071,LIC,Finance,Noida,Uttar Pradesh,"critical-thinking,communication,accounting,excel,sql",B.Com,22,5000,12
+I0072,Embibe,Education,Mumbai,Maharashtra,"project-management,content-writing,leadership,hr-management,cad",BBA,15,5000,10
+I0073,TVS Motor,Manufacturing,Jodhpur,Rajasthan,"civil,cad,project-management,mechanical",BBA,13,5000,10
+I0074,Sonata Software,IT,Shimla,Himachal Pradesh,"project-management,data-analysis,machine-learning,problem-solving,supply-chain",B.Tech,7,5000,11
+I0075,TVS Motor,Manufacturing,Kolkata,West Bengal,"problem-solving,leadership",MCA,23,5000,10
+I0076,Advanta Seeds,Agriculture,Jodhpur,Rajasthan,"communication,research,data-analysis,teaching",B.Com,13,5000,12
+I0077,Aurobindo Pharma,Healthcare,Delhi,Delhi,"healthcare,digital-marketing",BSc,23,5000,11
+I0078,Pfizer India,Healthcare,Delhi,Delhi,"problem-solving,research,c++,marketing",BA,24,5000,10
+I0079,TVS Motor,Manufacturing,Imphal,Manipur,"civil,cad",B.Tech,11,5000,11
+I0080,Extramarks,Education,Bangalore,Karnataka,"teamwork,hr-management",BSc,7,5000,11
+I0081,Infosys,IT,Noida,Uttar Pradesh,"teamwork,machine-learning,mechanical,graphic-design",Any,8,5000,10
+I0082,Mahindra & Mahindra,Manufacturing,Mumbai,Maharashtra,"teamwork,healthcare",B.Tech,18,5000,11
+I0083,CESC,Energy,Ahmedabad,Gujarat,"civil,leadership,problem-solving",B.Com,17,5000,12
+I0084,KPIT Technologies,IT,Kolkata,West Bengal,"java,data-analysis,communication,finance,critical-thinking",BSc,16,5000,11
+I0085,Oracle India,IT,Gurgaon,Haryana,"sql,hr-management",MCA,12,5000,12
+I0086,State Bank of India,Finance,Jaipur,Rajasthan,"data-analysis,problem-solving",BBA,5,5000,12
+I0087,CARE Hospitals,Healthcare,Ahmedabad,Gujarat,"healthcare,research,python",B.Tech,11,5000,10
+I0088,Mother Dairy,Agriculture,Kochi,Kerala,"research,javascript",B.Tech,16,5000,10
+I0089,BSE,Finance,Noida,Uttar Pradesh,"sql,data-analysis,problem-solving",BSc,14,5000,12
+I0090,KPIT Technologies,IT,Kohima,Nagaland,"java,electrical",MBA,5,5000,10
+I0091,Tata ClassEdge,Education,Chennai,Tamil Nadu,"teaching,teamwork,leadership,communication,cad",B.Tech,7,5000,12
+I0092,Bajaj Finserv,Finance,Kochi,Kerala,"finance,communication,excel,supply-chain,healthcare",BBA,11,5000,12
+I0093,Sun Pharma,Healthcare,Shimla,Himachal Pradesh,"research,excel,graphic-design,electrical",B.Tech,17,5000,10
+I0094,Hero MotoCorp,Manufacturing,Ahmedabad,Gujarat,"electrical,supply-chain,civil,agriculture,javascript",BA,7,5000,11
+I0095,Syngenta India,Agriculture,Mumbai,Maharashtra,"research,communication,machine-learning,mechanical",B.Com,21,5000,12
+I0096,NSE India,Finance,Kanpur,Uttar Pradesh,"leadership,excel,supply-chain,hr-management",BA,17,5000,10
+I0097,Capgemini India,IT,Pune,Maharashtra,"c++,project-management,problem-solving,research",BBA,13,5000,10
+I0098,ABB India,Manufacturing,Gurgaon,Haryana,"problem-solving,java",MBA,14,5000,12
+I0099,JSW Steel,Manufacturing,Gurgaon,Haryana,"leadership,civil,mechanical,marketing,python",MBA,23,5000,11
+I0100,Mphasis,IT,Faridabad,Haryana,"java,teamwork,content-writing",MBA,21,5000,11
+I0101,Coromandel International,Agriculture,Kolkata,West Bengal,"research,problem-solving,data-analysis",MCA,5,5000,10
+I0102,Bharat Electronics,Manufacturing,Noida,Uttar Pradesh,"electrical,mechanical,teaching,hr-management",B.Com,16,5000,10
+I0103,Tata Power,Energy,Indore,Madhya Pradesh,"supply-chain,communication,research",BSc,21,5000,11
+I0104,Tata Power,Energy,Kanpur,Uttar Pradesh,"communication,python",BBA,7,5000,11
+I0105,IBM India,IT,Jaipur,Rajasthan,"problem-solving,machine-learning,project-management,excel,teamwork",BBA,20,5000,11
+I0106,Larsen & Toubro Infotech,IT,Indore,Madhya Pradesh,"java,data-analysis,project-management",BSc,20,5000,11
+I0107,Tata Capital,Finance,Jammu,Jammu and Kashmir,"communication,excel,content-writing",BBA,10,5000,11
+I0108,Tata Steel,Manufacturing,Coimbatore,Tamil Nadu,"teamwork,machine-learning",MCA,5,5000,12
+I0109,Hindustan Aeronautics,Manufacturing,Delhi,Delhi,"problem-solving,machine-learning",B.Tech,9,5000,12
+I0110,Freshworks,IT,Ahmedabad,Gujarat,"teamwork,javascript,data-analysis,hr-management,research",B.Com,5,5000,11
+I0111,Jain Irrigation,Agriculture,Indore,Madhya Pradesh,"data-analysis,problem-solving,c++,project-management",B.Tech,7,5000,12
+I0112,Rallis,Agriculture,Coimbatore,Tamil Nadu,"research,data-analysis,communication,hr-management,content-writing",Any,24,5000,10
+I0113,Petronet LNG,Energy,Ahmedabad,Gujarat,"leadership,research",MCA,24,5000,10
+I0114,Hexaware,IT,Kochi,Kerala,"c++,cad",MBA,10,5000,10
+I0115,LTIMindtree,IT,Lucknow,Uttar Pradesh,"project-management,c++",B.Tech,12,5000,12
+I0116,UPL Limited,Agriculture,Hyderabad,Telangana,"agriculture,research,project-management,teaching,data-analysis",BBA,25,5000,10
+I0117,Manipal Hospitals,Healthcare,Allahabad,Uttar Pradesh,"problem-solving,teamwork,supply-chain,machine-learning",BBA,13,5000,11
+I0118,Hexaware,IT,Lucknow,Uttar Pradesh,"communication,javascript,accounting,teamwork",B.Tech,21,5000,12
+I0119,Rallis,Agriculture,Mumbai,Maharashtra,"research,accounting",Any,24,5000,12
+I0120,Wipro,IT,Varanasi,Uttar Pradesh,"critical-thinking,civil",B.Com,14,5000,10
+I0121,HDFC Life,Finance,Mumbai,Maharashtra,"sql,accounting",B.Tech,21,5000,10
+I0122,Hexaware,IT,Indore,Madhya Pradesh,"critical-thinking,project-management,teamwork,data-analysis,mechanical",MCA,11,5000,12
+I0123,Zoho,IT,Kochi,Kerala,"project-management,javascript,c++",MBA,22,5000,10
+I0124,Siemens Healthineers India,Healthcare,Bangalore,Karnataka,"problem-solving,sql",B.Tech,11,5000,12
+I0125,Apollo Hospitals,Healthcare,Delhi,Delhi,"teamwork,marketing",Any,8,5000,11
+I0126,Reliance Industries,Manufacturing,Indore,Madhya Pradesh,"mechanical,graphic-design",BBA,24,5000,11
+I0127,NIIT Technologies,IT,Guwahati,Assam,"project-management,problem-solving,teamwork",B.Com,19,5000,12
+I0128,Zydus Lifesciences,Healthcare,Hyderabad,Telangana,"excel,teamwork,mechanical,accounting",B.Tech,25,5000,12
+I0129,Cyient,IT,Bangalore,Karnataka,"critical-thinking,java",B.Tech,7,5000,11
+I0130,Glenmark,Healthcare,Ahmedabad,Gujarat,"healthcare,communication,cad",B.Tech,5,5000,12
+I0131,Muthoot Finance,Finance,Noida,Uttar Pradesh,"excel,accounting,finance,python,teamwork",BBA,11,5000,11
+I0132,Advanta Seeds,Agriculture,Coimbatore,Tamil Nadu,"supply-chain,data-analysis,machine-learning",B.Com,15,5000,10
+I0133,NHPC,Energy,Prayagraj,Uttar Pradesh,"leadership,project-management,problem-solving,machine-learning,critical-thinking",B.Tech,15,5000,10
+I0134,Advanta Seeds,Agriculture,Chennai,Tamil Nadu,"communication,marketing",MBA,19,5000,12
+I0135,Bharat Forge,Manufacturing,Hyderabad,Telangana,"civil,machine-learning",B.Com,6,5000,11
+I0136,Larsen & Toubro Infotech,IT,Bengaluru,Karnataka,"python,communication,project-management,c++,cad",BA,11,5000,12
+I0137,Wipro,IT,Gurgaon,Haryana,"project-management,leadership",Any,15,5000,12
+I0138,Nuziveedu Seeds,Agriculture,Pune,Maharashtra,"supply-chain,data-analysis,javascript,problem-solving",B.Tech,14,5000,10
+I0139,Cyient,IT,Noida,Uttar Pradesh,"machine-learning,sql,javascript",BBA,8,5000,11
+I0140,Philips Healthcare India,Healthcare,Bangalore,Karnataka,"critical-thinking,research,content-writing,teamwork",B.Com,23,5000,11
+I0141,Birlasoft,IT,Guwahati,Assam,"machine-learning,graphic-design",B.Com,23,5000,10
+I0142,Max Healthcare,Healthcare,Coimbatore,Tamil Nadu,"critical-thinking,research,communication,leadership,java",B.Tech,16,5000,12
+I0143,Voltas,Manufacturing,Bangalore,Karnataka,"problem-solving,supply-chain,java",MBA,24,5000,11
+I0144,Glenmark,Healthcare,Coimbatore,Tamil Nadu,"research,data-analysis,healthcare",MCA,14,5000,12
+I0145,Zydus Lifesciences,Healthcare,Mumbai,Maharashtra,"data-analysis,teamwork,civil",Any,22,5000,10
+I0146,Persistent Systems,IT,Aizawl,Mizoram,"teamwork,javascript,research,healthcare",MCA,11,5000,10
+I0147,Nuziveedu Seeds,Agriculture,Guwahati,Assam,"agriculture,machine-learning",BA,25,5000,12
+I0148,Freshworks,IT,Mumbai,Maharashtra,"c++,communication,problem-solving,teamwork,excel",B.Tech,20,5000,10
+I0149,Torrent Power,Energy,Gurgaon,Haryana,"project-management,healthcare",B.Tech,22,5000,12
+I0150,Happiest Minds,IT,Bengaluru,Karnataka,"sql,data-analysis,javascript,python,research",MCA,16,5000,10
+I0151,Sun Pharma,Healthcare,Kanpur,Uttar Pradesh,"healthcare,problem-solving,hr-management,agriculture",MCA,12,5000,10
+I0152,NTPC,Energy,Kolkata,West Bengal,"project-management,electrical,hr-management,finance",BA,24,5000,10
+I0153,Oil India,Energy,Indore,Madhya Pradesh,"problem-solving,communication,supply-chain",BSc,23,5000,12
+I0154,Havells India,Manufacturing,Chennai,Tamil Nadu,"project-management,java",BBA,19,5000,11
+I0155,Advanta Seeds,Agriculture,Bangalore,Karnataka,"problem-solving,agriculture",Any,22,5000,12
+I0156,Infosys,IT,Jodhpur,Rajasthan,"python,c++,problem-solving",BSc,23,5000,11
+I0157,Godrej & Boyce,Manufacturing,Imphal,Manipur,"teamwork,problem-solving,content-writing,digital-marketing",MBA,8,5000,12
+I0158,Advanta Seeds,Agriculture,Bengaluru,Karnataka,"research,communication,teaching,cad",B.Com,22,5000,12
+I0159,Wipro,IT,Kochi,Kerala,"teamwork,problem-solving",BA,6,5000,10
+I0160,Medanta,Healthcare,Chennai,Tamil Nadu,"data-analysis,cad",MBA,10,5000,11
+I0161,Birlasoft,IT,Bhubaneswar,Odisha,"critical-thinking,communication,c++,excel,accounting",MBA,18,5000,10
+I0162,SAP Labs India,IT,Nashik,Maharashtra,"java,communication,critical-thinking,accounting,leadership",B.Com,6,5000,12
+I0163,Byju's,Education,Dehradun,Uttarakhand,"communication,marketing",MBA,24,5000,10
+I0164,KPIT Technologies,IT,Ahmedabad,Gujarat,"teamwork,communication,critical-thinking,agriculture",Any,13,5000,10
+I0165,Vedanta,Manufacturing,Kochi,Kerala,"supply-chain,civil,excel,machine-learning",B.Com,14,5000,10
+I0166,Sun Pharma,Healthcare,Hyderabad,Telangana,"research,problem-solving",MBA,19,5000,12
+I0167,Zoho,IT,Delhi,Delhi,"teamwork,critical-thinking,mechanical,excel",MBA,20,5000,10
+I0168,Byju's,Education,Bangalore,Karnataka,"project-management,teaching,communication",Any,19,5000,10
+I0169,Aurobindo Pharma,Healthcare,Gurgaon,Haryana,"healthcare,excel,research,teamwork,digital-marketing",B.Com,9,5000,12
+I0170,Wipro,IT,Mumbai,Maharashtra,"problem-solving,communication,sql,finance",B.Tech,6,5000,11
+I0171,Physics Wallah,Education,Gurgaon,Haryana,"teamwork,content-writing,agriculture,python",B.Tech,10,5000,11
+I0172,SAP Labs India,IT,Chennai,Tamil Nadu,"sql,c++,critical-thinking",Any,6,5000,11
+I0173,Tech Mahindra,IT,Bangalore,Karnataka,"project-management,machine-learning,digital-marketing,content-writing",BSc,17,5000,12
+I0174,Bajaj Finance,Finance,Gurgaon,Haryana,"problem-solving,sql,python",B.Tech,10,5000,10
+I0175,SAP Labs India,IT,Kochi,Kerala,"java,civil",Any,15,5000,10
+I0176,Persistent Systems,IT,Hyderabad,Telangana,"sql,critical-thinking,electrical,healthcare",MCA,18,5000,11
+I0177,Glenmark,Healthcare,Kolkata,West Bengal,"research,data-analysis,content-writing,electrical",BA,16,5000,12
+I0178,HCLTech,IT,Kohima,Nagaland,"java,project-management,communication,c++",Any,14,5000,11
+I0179,Embibe,Education,Noida,Uttar Pradesh,"project-management,leadership",Any,24,5000,11
+I0180,Sasken Technologies,IT,Delhi,Delhi,"c++,sql",BBA,14,5000,11
+I0181,Torrent Power,Energy,Bangalore,Karnataka,"supply-chain,problem-solving,teamwork,digital-marketing",B.Tech,15,5000,12
+I0182,TCS,IT,Kolkata,West Bengal,"java,machine-learning,python,problem-solving,project-management",MBA,12,5000,12
+I0183,Zydus Lifesciences,Healthcare,Delhi,Delhi,"communication,problem-solving,research,javascript,supply-chain",B.Com,13,5000,12
+I0184,Bayer CropScience India,Agriculture,Coimbatore,Tamil Nadu,"agriculture,supply-chain,graphic-design",MBA,13,5000,12
+I0185,Bharat Electronics,Manufacturing,Ahmedabad,Gujarat,"leadership,project-management,electrical,cad,research",MBA,19,5000,12
+I0186,Jain Irrigation,Agriculture,Guwahati,Assam,"research,data-analysis,problem-solving,leadership,accounting",Any,24,5000,10
+I0187,Mphasis,IT,Jaipur,Rajasthan,"teamwork,problem-solving,teaching,project-management",BBA,20,5000,12
+I0188,Tata Power Solar,Energy,Pune,Maharashtra,"project-management,supply-chain,communication,marketing,critical-thinking",B.Com,6,5000,12
+I0189,Persistent Systems,IT,Coimbatore,Tamil Nadu,"java,mechanical",B.Com,12,5000,10
+I0190,Tata Elxsi,IT,Hyderabad,Telangana,"data-analysis,python,communication,electrical,marketing",B.Tech,24,5000,10
+I0191,Sonata Software,IT,Warangal,Telangana,"critical-thinking,javascript",MCA,10,5000,10
+I0192,Cuemath,Education,Jammu,Jammu and Kashmir,"communication,content-writing,critical-thinking,data-analysis,sql",B.Tech,6,5000,12
+I0193,Hatsun Agro,Agriculture,Mysuru,Karnataka,"agriculture,excel",MCA,8,5000,10
+I0194,Havells India,Manufacturing,Ahmedabad,Gujarat,"problem-solving,marketing",B.Tech,24,5000,11
+I0195,Tata Motors,Manufacturing,Varanasi,Uttar Pradesh,"problem-solving,supply-chain,healthcare,graphic-design",BBA,18,5000,10
+I0196,NIIT Technologies,IT,Patna,Bihar,"problem-solving,machine-learning,javascript,finance",BSc,22,5000,10
+I0197,Coromandel International,Agriculture,Kolkata,West Bengal,"research,communication,graphic-design",B.Tech,7,5000,10
+I0198,Happiest Minds,IT,Guwahati,Assam,"sql,civil",BA,22,5000,11
+I0199,Aptech,Education,Pune,Maharashtra,"project-management,machine-learning",BSc,13,5000,11
+I0200,L&T Technology Services,IT,Mysuru,Karnataka,"python,java,excel",B.Com,16,5000,10
+I0201,SJVN,Energy,Visakhapatnam,Andhra Pradesh,"civil,communication,research,sql",MBA,20,5000,10
+I0202,Sonata Software,IT,Chennai,Tamil Nadu,"c++,finance",B.Tech,6,5000,10
+I0203,Infosys,IT,Coimbatore,Tamil Nadu,"javascript,communication",BSc,12,5000,11
+I0204,Amul,Agriculture,Coimbatore,Tamil Nadu,"data-analysis,project-management,communication,civil,problem-solving",B.Tech,20,5000,12
+I0205,Larsen & Toubro Infotech,IT,Jaipur,Rajasthan,"c++,hr-management",MBA,15,5000,12
+I0206,WhiteHat Jr,Education,Bangalore,Karnataka,"critical-thinking,leadership,teaching,agriculture,finance",BBA,11,5000,11
+I0207,Godrej Agrovet,Agriculture,New Delhi,Delhi,"project-management,agriculture,java",BSc,16,5000,11
+I0208,Johnson & Johnson India,Healthcare,Ahmedabad,Gujarat,"healthcare,problem-solving,content-writing",B.Tech,25,5000,11
+I0209,upGrad,Education,Delhi,Delhi,"communication,research,content-writing",B.Tech,10,5000,12
+I0210,Tata Elxsi,IT,Pune,Maharashtra,"c++,hr-management",B.Tech,11,5000,12
+I0211,Shriram Finance,Finance,Visakhapatnam,Andhra Pradesh,"sql,excel,python,electrical",BSc,23,5000,11
+I0212,Zoho,IT,Ranchi,Jharkhand,"sql,python,c++,data-analysis,content-writing",Any,12,5000,10
+I0213,Apollo Hospitals,Healthcare,Srinagar,Jammu and Kashmir,"teamwork,research,excel,critical-thinking,teaching",BBA,18,5000,11
+I0214,Bajaj Auto,Manufacturing,Ahmedabad,Gujarat,"supply-chain,civil,teamwork,digital-marketing,data-analysis",Any,8,5000,12
+I0215,Voltas,Manufacturing,Lucknow,Uttar Pradesh,"electrical,leadership,civil,research,supply-chain",B.Tech,16,5000,10
+I0216,Tata Steel,Manufacturing,Gurgaon,Haryana,"project-management,problem-solving,java,c++",BSc,12,5000,10
+I0217,Byju's,Education,Indore,Madhya Pradesh,"teaching,communication,supply-chain",BSc,16,5000,12
+I0218,Infosys,IT,Delhi,Delhi,"teamwork,project-management,digital-marketing",B.Tech,18,5000,12
+I0219,Wipro,IT,Delhi,Delhi,"communication,machine-learning,data-analysis,healthcare,finance",B.Tech,12,5000,11
+I0220,ABB India,Manufacturing,Jaipur,Rajasthan,"electrical,research",BSc,17,5000,12
+I0221,Toppr,Education,Gurgaon,Haryana,"teamwork,project-management,mechanical",MBA,8,5000,11
+I0222,Tata Power,Energy,Kolkata,West Bengal,"problem-solving,project-management,critical-thinking",B.Tech,8,5000,11
+I0223,Lupin,Healthcare,Coimbatore,Tamil Nadu,"critical-thinking,communication,data-analysis,electrical",BBA,23,5000,12
+I0224,Maruti Suzuki,Manufacturing,Chennai,Tamil Nadu,"electrical,project-management,data-analysis",Any,16,5000,11
+I0225,Dr. Reddy's Laboratories,Healthcare,Indore,Madhya Pradesh,"excel,critical-thinking,marketing,sql",BA,13,5000,11
+I0226,Infosys,IT,Noida,Uttar Pradesh,"teamwork,project-management,communication,research",B.Tech,9,5000,10
+I0227,Cognizant India,IT,Chennai,Tamil Nadu,"critical-thinking,teamwork",B.Tech,23,5000,11
+I0228,JSW Steel,Manufacturing,Gurgaon,Haryana,"supply-chain,communication,machine-learning",B.Com,13,5000,11
+I0229,Bosch India,Manufacturing,Gurugram,Haryana,"cad,supply-chain,leadership,problem-solving,data-analysis",BSc,11,5000,11
+I0230,Bharat Electronics,Manufacturing,Noida,Uttar Pradesh,"project-management,supply-chain,civil,c++,data-analysis",B.Com,9,5000,11
+I0231,Mindtree,IT,Coimbatore,Tamil Nadu,"communication,machine-learning,javascript,teaching,accounting",B.Tech,15,5000,10
+I0232,Paytm,Finance,Mysuru,Karnataka,"data-analysis,content-writing",B.Com,17,5000,10
+I0233,Mphasis,IT,Pune,Maharashtra,"teamwork,cad",MCA,14,5000,11
+I0234,Shriram Finance,Finance,Delhi,Delhi,"excel,accounting,java,teamwork",BBA,8,5000,10
+I0235,Medanta,Healthcare,Coimbatore,Tamil Nadu,"data-analysis,problem-solving,supply-chain,machine-learning",B.Com,21,5000,12
+I0236,BSE,Finance,Noida,Uttar Pradesh,"finance,graphic-design",B.Com,7,5000,11
+I0237,HCLTech,IT,Gurgaon,Haryana,"project-management,teamwork",Any,21,5000,11
+I0238,Cuemath,Education,Aurangabad,Maharashtra,"teaching,mechanical",BBA,21,5000,11
+I0239,Happiest Minds,IT,Jaipur,Rajasthan,"teamwork,excel",B.Tech,5,5000,10
+I0240,Ashok Leyland,Manufacturing,Kolkata,West Bengal,"teamwork,mechanical,communication,critical-thinking,javascript",Any,9,5000,12
+I0241,Oracle India,IT,Mumbai,Maharashtra,"teamwork,python,data-analysis,sql,mechanical",B.Tech,24,5000,11
+I0242,NHPC,Energy,Kochi,Kerala,"mechanical,leadership,civil,python,agriculture",B.Tech,17,5000,12
+I0243,Hatsun Agro,Agriculture,Raipur,Chhattisgarh,"agriculture,project-management,content-writing",BSc,13,5000,10
+I0244,NIIT,Education,New Delhi,Delhi,"content-writing,teaching,cad,leadership",B.Tech,17,5000,11
+I0245,Coromandel International,Agriculture,Gurgaon,Haryana,"project-management,hr-management",Any,15,5000,11
+I0246,BSE,Finance,Bangalore,Karnataka,"problem-solving,data-analysis,critical-thinking,javascript",BBA,17,5000,12
+I0247,Rallis India,Agriculture,Mumbai,Maharashtra,"supply-chain,research,agriculture",B.Tech,14,5000,12
+I0248,Great Learning,Education,Kolkata,West Bengal,"content-writing,critical-thinking,machine-learning",B.Com,21,5000,10
+I0249,Wipro,IT,Jaipur,Rajasthan,"problem-solving,java,machine-learning",B.Tech,24,5000,10
+I0250,Cloudnine,Healthcare,Coimbatore,Tamil Nadu,"healthcare,teamwork,c++",BSc,9,5000,12
+I0251,HCLTech,IT,Noida,Uttar Pradesh,"problem-solving,javascript,data-analysis,teamwork,machine-learning",Any,22,5000,10
+I0252,Bharat Electronics,Manufacturing,Jaipur,Rajasthan,"project-management,electrical,problem-solving,java",Any,24,5000,10
+I0253,Manappuram Finance,Finance,Chandigarh,Chandigarh,"accounting,critical-thinking,teamwork",BA,17,5000,10
+I0254,Apollo Hospitals,Healthcare,Raipur,Chhattisgarh,"critical-thinking,research,excel,javascript,marketing",MCA,25,5000,10
+I0255,L&T Technology Services,IT,Kochi,Kerala,"data-analysis,machine-learning,critical-thinking",MCA,23,5000,11
+I0256,HDFC Life,Finance,Mumbai,Maharashtra,"sql,critical-thinking,accounting",B.Com,24,5000,11
+I0257,Doubtnut,Education,Bangalore,Karnataka,"teaching,communication,teamwork",Any,12,5000,12
+I0258,L&T Technology Services,IT,Chennai,Tamil Nadu,"c++,data-analysis,project-management,civil,java",BBA,16,5000,10
+I0259,Tata Steel,Manufacturing,Pune,Maharashtra,"supply-chain,leadership,machine-learning,healthcare",MCA,5,5000,10
+I0260,KPIT Technologies,IT,Coimbatore,Tamil Nadu,"javascript,critical-thinking",BSc,7,5000,12
+I0261,Ashok Leyland,Manufacturing,Chennai,Tamil Nadu,"communication,civil,marketing,excel",BA,13,5000,10
+I0262,Tata Capital,Finance,Delhi,Delhi,"data-analysis,problem-solving,leadership",BSc,23,5000,11
+I0263,SAP Labs India,IT,Mumbai,Maharashtra,"sql,teamwork,cad",B.Com,5,5000,10
+I0264,State Bank of India,Finance,Bangalore,Karnataka,"data-analysis,problem-solving,teaching,healthcare",B.Tech,16,5000,12
+I0265,Mphasis,IT,Ranchi,Jharkhand,"project-management,critical-thinking",BA,8,5000,10
+I0266,Paytm,Finance,Ahmedabad,Gujarat,"data-analysis,critical-thinking,accounting,communication,sql",B.Com,17,5000,10
+I0267,National Seeds Corporation,Agriculture,Bangalore,Karnataka,"problem-solving,data-analysis,research,graphic-design,healthcare",BSc,7,5000,12
+I0268,Maruti Suzuki,Manufacturing,Mumbai,Maharashtra,"leadership,communication,sql,research",BSc,5,5000,12
+I0269,Capgemini India,IT,Coimbatore,Tamil Nadu,"java,critical-thinking,problem-solving,supply-chain",B.Tech,20,5000,11
+I0270,Cloudnine,Healthcare,Mumbai,Maharashtra,"communication,cad",B.Tech,23,5000,11
+I0271,Hexaware,IT,Delhi,Delhi,"c++,javascript,research,healthcare",BBA,21,5000,11
+I0272,Birlasoft,IT,Kolkata,West Bengal,"machine-learning,critical-thinking,javascript,python,content-writing",B.Tech,16,5000,11
+I0273,Shriram Finance,Finance,Pune,Maharashtra,"leadership,excel,machine-learning,research",B.Tech,8,5000,11
+I0274,PhonePe,Finance,Jodhpur,Rajasthan,"problem-solving,sql",B.Tech,8,5000,11
+I0275,National Seeds Corporation,Agriculture,Delhi,Delhi,"project-management,civil",B.Tech,20,5000,11
+I0276,Tata Steel,Manufacturing,Allahabad,Uttar Pradesh,"teamwork,electrical",Any,19,5000,10
+I0277,Larsen & Toubro Infotech,IT,Dehradun,Uttarakhand,"python,sql,project-management,finance,critical-thinking",B.Tech,19,5000,12
+I0278,SBI Life,Finance,Hyderabad,Telangana,"leadership,c++",MCA,24,5000,12
+I0279,upGrad,Education,Faridabad,Haryana,"project-management,critical-thinking,leadership,civil,cad",BSc,9,5000,11
+I0280,Zydus Lifesciences,Healthcare,Bangalore,Karnataka,"data-analysis,teamwork,critical-thinking",B.Tech,18,5000,12
+I0281,IBM India,IT,Port Blair,Andaman and Nicobar Islands,"machine-learning,teamwork,c++,hr-management,python",BBA,6,5000,11
+I0282,Bayer CropScience India,Agriculture,Chandigarh,Chandigarh,"project-management,data-analysis,graphic-design",BBA,16,5000,10
+I0283,Bayer CropScience India,Agriculture,Pune,Maharashtra,"supply-chain,data-analysis,accounting",BSc,16,5000,11
+I0284,HDFC Life,Finance,Noida,Uttar Pradesh,"communication,finance,teaching",MCA,16,5000,10
+I0285,Pfizer India,Healthcare,Aurangabad,Maharashtra,"problem-solving,content-writing",Any,12,5000,12
+I0286,Vedantu,Education,Ahmedabad,Gujarat,"critical-thinking,teaching,leadership,data-analysis,supply-chain",B.Com,5,5000,11
+I0287,Glenmark,Healthcare,Indore,Madhya Pradesh,"teamwork,excel,critical-thinking,javascript",B.Tech,19,5000,10
+I0288,Tech Mahindra,IT,Hyderabad,Telangana,"project-management,machine-learning",BA,11,5000,11
+I0289,SAP Labs India,IT,Delhi,Delhi,"data-analysis,mechanical",MCA,15,5000,12
+I0290,NSE India,Finance,Bhopal,Madhya Pradesh,"communication,accounting,supply-chain",Any,13,5000,11
+I0291,Infosys,IT,Chennai,Tamil Nadu,"teamwork,javascript,graphic-design",BA,14,5000,10
+I0292,LIC,Finance,Hyderabad,Telangana,"finance,problem-solving,critical-thinking,content-writing,cad",BSc,17,5000,11
+I0293,Jain Irrigation,Agriculture,Warangal,Telangana,"supply-chain,communication,accounting,civil",BA,23,5000,11
+I0294,KPIT Technologies,IT,Noida,Uttar Pradesh,"python,sql,problem-solving,teamwork,content-writing",B.Tech,6,5000,10
+I0295,Bharat Forge,Manufacturing,Patna,Bihar,"problem-solving,teamwork,agriculture",Any,8,5000,10
+I0296,Fortis Healthcare,Healthcare,Delhi,Delhi,"research,c++",BSc,24,5000,12
+I0297,ISRO Centres,Manufacturing,Hyderabad,Telangana,"leadership,teamwork,javascript",B.Tech,12,5000,11
+I0298,ICICI Prudential,Finance,Raipur,Chhattisgarh,"data-analysis,excel,communication,marketing,agriculture",BSc,6,5000,10
+I0299,Aster DM Healthcare,Healthcare,Srinagar,Jammu and Kashmir,"research,communication,electrical",B.Com,17,5000,10
+I0300,Allen Career Institute,Education,Bangalore,Karnataka,"teamwork,content-writing,critical-thinking,excel,accounting",MCA,12,5000,11
+I0301,Biocon,Healthcare,Indore,Madhya Pradesh,"critical-thinking,healthcare",B.Tech,16,5000,12
+I0302,Cloudnine,Healthcare,Bengaluru,Karnataka,"communication,mechanical",MCA,20,5000,10
+I0303,Mindtree,IT,Bangalore,Karnataka,"javascript,teamwork,electrical",MCA,22,5000,11
+I0304,KRIBHCO,Agriculture,Noida,Uttar Pradesh,"problem-solving,leadership",MCA,22,5000,10
+I0305,Apollo Hospitals,Healthcare,Coimbatore,Tamil Nadu,"research,communication,excel,cad,agriculture",Any,18,5000,12
+I0306,Simplilearn,Education,Raipur,Chhattisgarh,"teaching,teamwork,machine-learning",BA,22,5000,11
+I0307,HDFC Life,Finance,Bangalore,Karnataka,"excel,finance,research",MCA,21,5000,12
+I0308,ABB India,Manufacturing,Noida,Uttar Pradesh,"communication,leadership,civil,electrical,supply-chain",MBA,10,5000,11
+I0309,Bharat Petroleum,Energy,Raipur,Chhattisgarh,"data-analysis,teaching",BSc,24,5000,11
+I0310,Byju's,Education,Ranchi,Jharkhand,"teaching,teamwork,finance,digital-marketing",BSc,21,5000,10
+I0311,TVS Motor,Manufacturing,Kochi,Kerala,"project-management,leadership,agriculture,critical-thinking",MBA,9,5000,10
+I0312,GAIL,Energy,Jaipur,Rajasthan,"data-analysis,problem-solving,digital-marketing,leadership",B.Tech,23,5000,12
+I0313,Mahindra Finance,Finance,Jaipur,Rajasthan,"critical-thinking,leadership,java",B.Com,22,5000,10
+I0314,KRIBHCO,Agriculture,Indore,Madhya Pradesh,"data-analysis,finance",B.Tech,12,5000,10
+I0315,Doubtnut,Education,Ahmedabad,Gujarat,"communication,javascript",MCA,20,5000,10
+I0316,KPIT Technologies,IT,Gangtok,Sikkim,"teamwork,critical-thinking,machine-learning,leadership,mechanical",B.Tech,9,5000,10
+I0317,Allen Career Institute,Education,Kochi,Kerala,"communication,project-management,accounting",B.Tech,10,5000,10
+I0318,Sasken Technologies,IT,Hyderabad,Telangana,"python,critical-thinking,graphic-design",MBA,11,5000,10
+I0319,Aakash Institute,Education,Jaipur,Rajasthan,"teaching,teamwork,research,communication,healthcare",Any,25,5000,12
+I0320,Aurobindo Pharma,Healthcare,Jaipur,Rajasthan,"data-analysis,excel,leadership",BA,14,5000,10
+I0321,Mother Dairy,Agriculture,Allahabad,Uttar Pradesh,"data-analysis,problem-solving,civil",BBA,14,5000,10
+I0322,Jain Irrigation,Agriculture,Hyderabad,Telangana,"data-analysis,research,agriculture,javascript",B.Tech,18,5000,11
+I0323,Wipro,IT,Mumbai,Maharashtra,"machine-learning,data-analysis,mechanical,critical-thinking",BSc,20,5000,12
+I0324,HCLTech,IT,Kolkata,West Bengal,"communication,python,marketing,machine-learning",MCA,6,5000,10
+I0325,Mphasis,IT,Kolkata,West Bengal,"problem-solving,c++,project-management",B.Tech,6,5000,12
+I0326,Narayana Health,Healthcare,Shimla,Himachal Pradesh,"problem-solving,excel,healthcare,communication,digital-marketing",BBA,19,5000,11
+I0327,Philips Healthcare India,Healthcare,Chennai,Tamil Nadu,"teamwork,communication",B.Com,8,5000,12
+I0328,Mahindra Finance,Finance,Chennai,Tamil Nadu,"problem-solving,leadership,electrical",BA,17,5000,12
+I0329,Jain Irrigation,Agriculture,Faridabad,Haryana,"research,project-management,communication,javascript,c++",MBA,11,5000,10
+I0330,Extramarks,Education,Pune,Maharashtra,"content-writing,research,leadership",B.Com,18,5000,12
+I0331,Cloudnine,Healthcare,Madurai,Tamil Nadu,"healthcare,mechanical",B.Tech,23,5000,12
+I0332,Bharat Forge,Manufacturing,Delhi,Delhi,"project-management,civil,problem-solving,healthcare,critical-thinking",Any,22,5000,11
+I0333,Shriram Finance,Finance,Patna,Bihar,"communication,leadership,teamwork,digital-marketing",B.Tech,19,5000,12
+I0334,upGrad,Education,Prayagraj,Uttar Pradesh,"communication,problem-solving",BSc,10,5000,11
+I0335,Cloudnine,Healthcare,Coimbatore,Tamil Nadu,"healthcare,cad",MBA,20,5000,10
+I0336,Aptech,Education,Delhi,Delhi,"teamwork,data-analysis",BSc,7,5000,11
+I0337,Torrent Power,Energy,Visakhapatnam,Andhra Pradesh,"data-analysis,leadership,problem-solving,agriculture,graphic-design",B.Tech,24,5000,12
+I0338,upGrad,Education,Patna,Bihar,"teamwork,project-management,critical-thinking,python",BBA,8,5000,12
+I0339,IndusInd Bank,Finance,Nashik,Maharashtra,"data-analysis,sql,agriculture",BSc,18,5000,12
+I0340,Oracle India,IT,Ahmedabad,Gujarat,"project-management,critical-thinking,python,electrical,cad",B.Tech,23,5000,10
+I0341,Parag Milk Foods,Agriculture,Indore,Madhya Pradesh,"data-analysis,agriculture,python,supply-chain",B.Com,23,5000,12
+I0342,Mahindra & Mahindra,Manufacturing,Jaipur,Rajasthan,"supply-chain,project-management,excel,electrical",BSc,7,5000,12
+I0343,Biocon,Healthcare,New Delhi,Delhi,"excel,problem-solving,javascript,cad",MCA,18,5000,12
+I0344,Reliance Industries,Manufacturing,Chennai,Tamil Nadu,"civil,mechanical,project-management,teamwork,critical-thinking",BSc,21,5000,12
+I0345,Bajaj Finance,Finance,Jaipur,Rajasthan,"data-analysis,accounting,leadership",B.Com,8,5000,11
+I0346,National Seeds Corporation,Agriculture,Jaipur,Rajasthan,"research,agriculture,supply-chain,content-writing,marketing",MBA,10,5000,10
+I0347,HDFC Bank,Finance,Indore,Madhya Pradesh,"leadership,data-analysis,cad,accounting",BA,8,5000,12
+I0348,Capgemini India,IT,Pune,Maharashtra,"machine-learning,communication",BSc,23,5000,10
+I0349,Aptech,Education,Mangaluru,Karnataka,"project-management,leadership,critical-thinking",MCA,15,5000,12
+I0350,LTIMindtree,IT,Hyderabad,Telangana,"c++,healthcare",BSc,6,5000,12
+I0351,Persistent Systems,IT,Mangaluru,Karnataka,"javascript,teamwork,graphic-design",B.Com,18,5000,11
+I0352,Voltas,Manufacturing,Kolkata,West Bengal,"electrical,problem-solving,teamwork,hr-management,teaching",B.Com,12,5000,10
+I0353,Adani Green Energy,Energy,Mumbai,Maharashtra,"leadership,electrical,machine-learning",B.Tech,24,5000,12
+I0354,Amul,Agriculture,Ahmedabad,Gujarat,"problem-solving,research,agriculture,sql,leadership",MCA,14,5000,11
+I0355,Manappuram Finance,Finance,Delhi,Delhi,"finance,problem-solving",B.Com,23,5000,10
+I0356,Philips Healthcare India,Healthcare,Delhi,Delhi,"data-analysis,excel,healthcare",Any,25,5000,12
+I0357,Birlasoft,IT,Raipur,Chhattisgarh,"problem-solving,civil",BSc,24,5000,10
+I0358,Byju's,Education,Kolkata,West Bengal,"communication,research,finance,mechanical",B.Tech,12,5000,10
+I0359,Oracle India,IT,Kanpur,Uttar Pradesh,"sql,javascript,hr-management",BBA,17,5000,11
+I0360,ICICI Bank,Finance,Ahmedabad,Gujarat,"accounting,data-analysis,digital-marketing,research",MBA,9,5000,10
+I0361,Johnson & Johnson India,Healthcare,Aurangabad,Maharashtra,"research,hr-management",BA,18,5000,11
+I0362,WhiteHat Jr,Education,Agartala,Tripura,"critical-thinking,research,project-management",MBA,21,5000,11
+I0363,Bajaj Finance,Finance,Hyderabad,Telangana,"excel,finance,project-management",Any,18,5000,11
+I0364,Axis Bank,Finance,Gurgaon,Haryana,"data-analysis,finance,excel,project-management",BSc,5,5000,11
+I0365,NIIT,Education,Gurgaon,Haryana,"project-management,content-writing,communication,excel,research",BSc,20,5000,11
+I0366,Edureka,Education,Port Blair,Andaman and Nicobar Islands,"project-management,content-writing,communication,mechanical,research",BBA,25,5000,11
+I0367,ABB India,Manufacturing,Warangal,Telangana,"project-management,mechanical,marketing,electrical",B.Com,17,5000,10
+I0368,Hexaware,IT,Delhi,Delhi,"machine-learning,c++",BSc,23,5000,11
+I0369,Oil India,Energy,Pune,Maharashtra,"communication,data-analysis,problem-solving,python,teamwork",B.Tech,7,5000,12
+I0370,HCLTech,IT,Delhi,Delhi,"machine-learning,java",B.Tech,23,5000,11
+I0371,Sasken Technologies,IT,Kochi,Kerala,"communication,sql,electrical",Any,19,5000,12
+I0372,ReNew Power,Energy,Hyderabad,Telangana,"communication,data-analysis,leadership,finance",B.Com,18,5000,11
+I0373,Capgemini India,IT,Gurgaon,Haryana,"project-management,data-analysis,critical-thinking,electrical,teamwork",BBA,22,5000,10
+I0374,L&T Technology Services,IT,Coimbatore,Tamil Nadu,"javascript,python,mechanical",B.Tech,16,5000,12
+I0375,CESC,Energy,Indore,Madhya Pradesh,"communication,civil,leadership,problem-solving",BBA,22,5000,10
+I0376,Birlasoft,IT,Noida,Uttar Pradesh,"teamwork,project-management,problem-solving,mechanical",MBA,12,5000,10
+I0377,Physics Wallah,Education,Chennai,Tamil Nadu,"communication,research,critical-thinking,java,excel",Any,25,5000,11
+I0378,Cipla,Healthcare,Jaipur,Rajasthan,"excel,teamwork,marketing",Any,22,5000,10
+I0379,SJVN,Energy,Delhi,Delhi,"project-management,communication,electrical,supply-chain",MBA,16,5000,12
+I0380,Tech Mahindra,IT,Kochi,Kerala,"project-management,javascript,python,teamwork,excel",B.Com,17,5000,12
+I0381,Birlasoft,IT,Jaipur,Rajasthan,"java,communication,healthcare",MCA,12,5000,10
+I0382,Accenture India,IT,Chennai,Tamil Nadu,"critical-thinking,python,problem-solving,supply-chain,java",BSc,23,5000,11
+I0383,Power Grid Corporation,Energy,Gurgaon,Haryana,"supply-chain,project-management,digital-marketing,mechanical",BA,25,5000,12
+I0384,Power Grid Corporation,Energy,Shillong,Meghalaya,"supply-chain,communication,healthcare,electrical",B.Tech,16,5000,11
+I0385,Rallis India,Agriculture,Ahmedabad,Gujarat,"research,graphic-design",Any,21,5000,11
+I0386,Edureka,Education,Delhi,Delhi,"leadership,teamwork,research,supply-chain,communication",BA,22,5000,10
+I0387,Hero MotoCorp,Manufacturing,Gangtok,Sikkim,"teamwork,civil,cad",B.Com,24,5000,10
+I0388,Petronet LNG,Energy,Jodhpur,Rajasthan,"civil,python",Any,5,5000,12
+I0389,Happiest Minds,IT,Ahmedabad,Gujarat,"teamwork,c++,problem-solving,graphic-design,agriculture",BA,25,5000,10
+I0390,Zerodha,Finance,Ranchi,Jharkhand,"problem-solving,critical-thinking,supply-chain,civil",MCA,9,5000,10
+I0391,Tata Capital,Finance,Bangalore,Karnataka,"critical-thinking,data-analysis,finance,sql,research",B.Tech,16,5000,10
+I0392,Shriram Finance,Finance,Noida,Uttar Pradesh,"leadership,finance,teaching,agriculture",BBA,22,5000,11
+I0393,Biocon,Healthcare,Noida,Uttar Pradesh,"teamwork,healthcare,civil",MBA,9,5000,12
+I0394,Wipro,IT,Hyderabad,Telangana,"teamwork,python,critical-thinking,c++",BA,21,5000,10
+I0395,Waaree Energies,Energy,Noida,Uttar Pradesh,"civil,problem-solving,python,machine-learning",MCA,23,5000,12
+I0396,Mindtree,IT,Agartala,Tripura,"c++,problem-solving,research,critical-thinking",Any,25,5000,12
+I0397,BHEL,Manufacturing,Gurgaon,Haryana,"communication,project-management,machine-learning,digital-marketing",B.Tech,10,5000,12
+I0398,Meritnation,Education,Ahmedabad,Gujarat,"teamwork,communication",MCA,10,5000,11
+I0399,Godrej & Boyce,Manufacturing,Hyderabad,Telangana,"cad,supply-chain,civil,javascript",MCA,5,5000,11
+I0400,Lupin,Healthcare,Gangtok,Sikkim,"research,teamwork,problem-solving,content-writing,teaching",BA,8,5000,12
+I0401,Zoho,IT,Chennai,Tamil Nadu,"python,javascript,agriculture",B.Tech,12,5000,11
+I0402,Yes Bank,Finance,Chennai,Tamil Nadu,"data-analysis,excel",MCA,5,5000,10
+I0403,NTPC,Energy,Gurgaon,Haryana,"mechanical,project-management,java",B.Tech,20,5000,11
+I0404,Indian Oil,Energy,Pune,Maharashtra,"project-management,java",B.Com,17,5000,11
+I0405,Bharat Electronics,Manufacturing,Pune,Maharashtra,"problem-solving,project-management,mechanical,data-analysis,excel",Any,25,5000,10
+I0406,Philips Healthcare India,Healthcare,Bangalore,Karnataka,"healthcare,research,excel,teamwork,critical-thinking",MBA,7,5000,10
+I0407,IBM India,IT,Aizawl,Mizoram,"sql,graphic-design",MCA,20,5000,12
+I0408,Wipro,IT,Bhubaneswar,Odisha,"python,c++,teaching,project-management",BBA,23,5000,10
+I0409,Larsen & Toubro,Manufacturing,Ahmedabad,Gujarat,"cad,teamwork,communication,accounting,critical-thinking",BSc,14,5000,10
+I0410,Bosch India,Manufacturing,Kochi,Kerala,"communication,project-management,marketing,graphic-design",BA,14,5000,11
+I0411,Parag Milk Foods,Agriculture,Kolkata,West Bengal,"project-management,research,data-analysis",B.Tech,5,5000,12
+I0412,Glenmark,Healthcare,Visakhapatnam,Andhra Pradesh,"research,agriculture",B.Com,20,5000,10
+I0413,Lupin,Healthcare,Jaipur,Rajasthan,"problem-solving,communication,critical-thinking",BSc,17,5000,10
+I0414,Siemens Healthineers India,Healthcare,Hyderabad,Telangana,"critical-thinking,excel,problem-solving,marketing",B.Tech,16,5000,10
+I0415,SJVN,Energy,Kolkata,West Bengal,"supply-chain,research",Any,21,5000,10
+I0416,Wipro,IT,Hyderabad,Telangana,"c++,javascript,data-analysis,critical-thinking,civil",B.Com,25,5000,11
+I0417,NIIT Technologies,IT,Puducherry,Puducherry,"python,content-writing",B.Tech,23,5000,12
+I0418,Tata Power Solar,Energy,Bangalore,Karnataka,"leadership,excel",BA,6,5000,12
+I0419,Siemens India,Manufacturing,Pune,Maharashtra,"supply-chain,electrical,civil,healthcare,marketing",BSc,21,5000,10
+I0420,Kaveri Seeds,Agriculture,Aurangabad,Maharashtra,"problem-solving,supply-chain,project-management,excel,teamwork",BBA,11,5000,10
+I0421,Hexaware,IT,Agartala,Tripura,"machine-learning,c++,data-analysis,graphic-design,javascript",Any,21,5000,12
+I0422,L&T Technology Services,IT,Gurgaon,Haryana,"python,teamwork,teaching,digital-marketing",B.Tech,22,5000,10
+I0423,Manipal Hospitals,Healthcare,Ahmedabad,Gujarat,"healthcare,communication,python,critical-thinking",B.Tech,20,5000,10
+I0424,GE Healthcare India,Healthcare,Vijayawada,Andhra Pradesh,"healthcare,teamwork,machine-learning",B.Com,9,5000,10
+I0425,NSE India,Finance,Ahmedabad,Gujarat,"accounting,finance,excel,cad,marketing",B.Com,25,5000,10
+I0426,Hindustan Petroleum,Energy,Visakhapatnam,Andhra Pradesh,"project-management,mechanical,marketing",B.Com,22,5000,11
+I0427,Ashok Leyland,Manufacturing,Indore,Madhya Pradesh,"supply-chain,leadership,communication,marketing,civil",BSc,7,5000,11
+I0428,Capgemini India,IT,Chandigarh,Chandigarh,"python,hr-management",Any,22,5000,12
+I0429,Advanta Seeds,Agriculture,Noida,Uttar Pradesh,"project-management,agriculture,digital-marketing,python",Any,10,5000,12
+I0430,Policybazaar,Finance,Kochi,Kerala,"leadership,problem-solving,excel",B.Tech,14,5000,12
+I0431,Siemens India,Manufacturing,Mysuru,Karnataka,"project-management,leadership,python,excel",Any,9,5000,12
+I0432,Cognizant India,IT,Gurgaon,Haryana,"machine-learning,supply-chain",B.Tech,6,5000,12
+I0433,Vedantu,Education,Mumbai,Maharashtra,"teaching,critical-thinking,civil",B.Com,23,5000,11
+I0434,Rallis,Agriculture,Ahmedabad,Gujarat,"problem-solving,project-management,supply-chain,graphic-design,communication",B.Tech,24,5000,10
+I0435,Hindustan Petroleum,Energy,Vadodara,Gujarat,"problem-solving,leadership,healthcare",MCA,11,5000,10
+I0436,TVS Motor,Manufacturing,Mumbai,Maharashtra,"teamwork,civil,data-analysis,supply-chain",BSc,13,5000,11
+I0437,IBM India,IT,Hyderabad,Telangana,"critical-thinking,sql,hr-management",B.Com,13,5000,11
+I0438,Tata Elxsi,IT,Ahmedabad,Gujarat,"python,c++,healthcare,javascript",B.Tech,17,5000,12
+I0439,Medanta,Healthcare,Gangtok,Sikkim,"data-analysis,project-management",MBA,5,5000,10
+I0440,Wipro,IT,Chennai,Tamil Nadu,"communication,sql,critical-thinking,machine-learning",Any,14,5000,11
+I0441,Sonata Software,IT,Kanpur,Uttar Pradesh,"data-analysis,teamwork,javascript,finance",B.Tech,11,5000,10
+I0442,upGrad,Education,Jaipur,Rajasthan,"leadership,communication,project-management,teamwork,civil",MBA,13,5000,11
+I0443,Persistent Systems,IT,Kochi,Kerala,"data-analysis,javascript,excel,digital-marketing",MCA,6,5000,10
+I0444,Mphasis,IT,Kolkata,West Bengal,"critical-thinking,javascript,problem-solving,digital-marketing",BSc,11,5000,11
+I0445,Nuziveedu Seeds,Agriculture,Mumbai,Maharashtra,"supply-chain,data-analysis,mechanical",B.Com,14,5000,11
+I0446,IBM India,IT,Noida,Uttar Pradesh,"communication,sql,mechanical",B.Tech,7,5000,11
+I0447,Hindustan Petroleum,Energy,Jammu,Jammu and Kashmir,"supply-chain,communication",BA,24,5000,10
+I0448,Fortis Healthcare,Healthcare,Nagpur,Maharashtra,"communication,healthcare,excel,research,machine-learning",B.Tech,23,5000,11
+I0449,Mindtree,IT,Ahmedabad,Gujarat,"critical-thinking,data-analysis",BSc,17,5000,11
+I0450,Advanta Seeds,Agriculture,Ahmedabad,Gujarat,"data-analysis,problem-solving,agriculture,c++,critical-thinking",BBA,8,5000,11
+I0451,BSES,Energy,Bangalore,Karnataka,"communication,data-analysis",B.Tech,17,5000,10
+I0452,Adani Power,Energy,Kolkata,West Bengal,"problem-solving,leadership,javascript,digital-marketing",B.Tech,10,5000,11
+I0453,Advanta Seeds,Agriculture,Gurugram,Haryana,"data-analysis,project-management,javascript",B.Tech,14,5000,10
+I0454,Ashok Leyland,Manufacturing,Indore,Madhya Pradesh,"civil,supply-chain,project-management,healthcare,machine-learning",MBA,8,5000,12
+I0455,Godrej Agrovet,Agriculture,Kolkata,West Bengal,"communication,data-analysis,graphic-design",MBA,16,5000,12
+I0456,Aster DM Healthcare,Healthcare,Noida,Uttar Pradesh,"problem-solving,content-writing",B.Tech,18,5000,12
+I0457,Larsen & Toubro Infotech,IT,Shillong,Meghalaya,"c++,problem-solving,python,excel",B.Tech,8,5000,12
+I0458,Cyient,IT,Indore,Madhya Pradesh,"machine-learning,data-analysis,electrical",MCA,22,5000,11
+I0459,Tata Steel,Manufacturing,Bengaluru,Karnataka,"problem-solving,supply-chain,graphic-design,teamwork",BA,22,5000,12
+I0460,Vedanta,Manufacturing,Vijayawada,Andhra Pradesh,"mechanical,electrical,supply-chain,data-analysis,leadership",MCA,16,5000,11
+I0461,TCS,IT,Jaipur,Rajasthan,"problem-solving,critical-thinking,leadership",B.Tech,11,5000,10
+I0462,IBM India,IT,Srinagar,Jammu and Kashmir,"critical-thinking,sql,machine-learning",BSc,8,5000,10
+I0463,Doubtnut,Education,Chennai,Tamil Nadu,"teamwork,project-management,digital-marketing,c++",BSc,17,5000,10
+I0464,Mahindra Finance,Finance,Bangalore,Karnataka,"finance,leadership,sql,hr-management,electrical",B.Tech,19,5000,11
+I0465,TCS,IT,Delhi,Delhi,"project-management,data-analysis,sql,mechanical,problem-solving",B.Tech,9,5000,10
+I0466,Aster DM Healthcare,Healthcare,Chennai,Tamil Nadu,"healthcare,data-analysis,critical-thinking,javascript,communication",MBA,17,5000,10
+I0467,Tata Steel,Manufacturing,Vadodara,Gujarat,"teamwork,project-management,communication,teaching,machine-learning",B.Tech,19,5000,10
+I0468,ReNew Power,Energy,Lucknow,Uttar Pradesh,"communication,data-analysis,marketing",B.Com,19,5000,11
+I0469,Voltas,Manufacturing,Mumbai,Maharashtra,"civil,electrical,supply-chain,excel,agriculture",B.Com,13,5000,10
+I0470,Accenture India,IT,Kohima,Nagaland,"data-analysis,project-management,content-writing",MBA,14,5000,11
+I0471,Mindtree,IT,Bangalore,Karnataka,"data-analysis,sql,electrical",Any,20,5000,12
+I0472,Oracle India,IT,Kolkata,West Bengal,"python,project-management,civil,graphic-design",B.Tech,12,5000,11
+I0473,JSW Steel,Manufacturing,Gangtok,Sikkim,"cad,leadership,civil,mechanical",BBA,14,5000,11
+I0474,Sun Pharma,Healthcare,Nagpur,Maharashtra,"critical-thinking,teamwork,project-management,healthcare",BSc,12,5000,11
+I0475,Sonata Software,IT,Nashik,Maharashtra,"teamwork,mechanical",B.Tech,20,5000,10
+I0476,upGrad,Education,Ahmedabad,Gujarat,"content-writing,research,teaching",MBA,22,5000,10
+I0477,Ashok Leyland,Manufacturing,Bhubaneswar,Odisha,"project-management,leadership,marketing,java",B.Com,12,5000,11
+I0478,Edureka,Education,Indore,Madhya Pradesh,"content-writing,teamwork,critical-thinking,communication,supply-chain",B.Com,15,5000,10
+I0479,TCS,IT,Coimbatore,Tamil Nadu,"data-analysis,problem-solving,project-management,electrical,python",BA,15,5000,11
+I0480,Pfizer India,Healthcare,Hyderabad,Telangana,"teamwork,problem-solving,machine-learning,graphic-design",MBA,13,5000,11
+I0481,Advanta Seeds,Agriculture,Noida,Uttar Pradesh,"problem-solving,java",Any,18,5000,11
+I0482,Voltas,Manufacturing,Ahmedabad,Gujarat,"supply-chain,critical-thinking",Any,19,5000,10
+I0483,SJVN,Energy,Chennai,Tamil Nadu,"electrical,civil,mechanical,sql,teamwork",BA,20,5000,12
+I0484,JSW Steel,Manufacturing,Indore,Madhya Pradesh,"supply-chain,communication,teaching,finance",B.Tech,7,5000,12
+I0485,Cognizant India,IT,Ahmedabad,Gujarat,"critical-thinking,graphic-design",MBA,14,5000,10
+I0486,Freshworks,IT,Aurangabad,Maharashtra,"project-management,civil",B.Com,19,5000,11
+I0487,BHEL,Manufacturing,Hyderabad,Telangana,"project-management,problem-solving,graphic-design,teaching",Any,12,5000,12
+I0488,IBM India,IT,Shimla,Himachal Pradesh,"project-management,teamwork",MBA,13,5000,10
+I0489,Mphasis,IT,Hyderabad,Telangana,"c++,teamwork,problem-solving,sql,excel",B.Com,17,5000,12
+I0490,Godrej Agrovet,Agriculture,Kolkata,West Bengal,"agriculture,teamwork",B.Tech,18,5000,10
+I0491,Dr. Reddy's Laboratories,Healthcare,Gurgaon,Haryana,"data-analysis,healthcare,teamwork,project-management,marketing",B.Com,23,5000,11
+I0492,Aurobindo Pharma,Healthcare,Jaipur,Rajasthan,"excel,teamwork,sql,graphic-design",BA,9,5000,12
+I0493,HDFC Life,Finance,Noida,Uttar Pradesh,"communication,excel,civil",B.Tech,7,5000,10
+I0494,Torrent Power,Energy,Gangtok,Sikkim,"civil,supply-chain,teaching",B.Tech,18,5000,12
+I0495,Siemens Healthineers India,Healthcare,Visakhapatnam,Andhra Pradesh,"teamwork,excel",Any,11,5000,11
+I0496,Mahindra Agri,Agriculture,Jammu,Jammu and Kashmir,"agriculture,research,problem-solving,data-analysis,digital-marketing",B.Tech,11,5000,12
+I0497,SBI Life,Finance,Delhi,Delhi,"excel,cad",B.Com,20,5000,12
+I0498,HCLTech,IT,Coimbatore,Tamil Nadu,"javascript,problem-solving,hr-management,marketing",BBA,19,5000,10
+I0499,Axis Bank,Finance,Ahmedabad,Gujarat,"finance,sql,c++",B.Tech,24,5000,11
+I0500,Birlasoft,IT,Madurai,Tamil Nadu,"problem-solving,data-analysis,content-writing",BSc,16,5000,12
